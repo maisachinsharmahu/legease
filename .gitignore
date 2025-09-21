@@ -1,0 +1,55 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.flutter/
+.idea/
+.vscode/
+*.iml
+
+# Android
+/android/.gradle/
+/android/app/debug/
+android/local.properties
+**/GeneratedPluginRegistrant.java
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Flutter/FlutterPluginRegistrant.*
+
+# macOS
+macos/Flutter/Flutter.framework
+macos/Flutter/FlutterPluginRegistrant.*
+
+# Web
+/web/manifest.json
+/web/favicon.png
+
+# Others
+*.lock
+*.log
+*.tmp
+*.swp
+.idea/
+*.DS_Store
+*.class
+*.jar
+*.war
+*.iml
+
+# Test results
+test-results/
